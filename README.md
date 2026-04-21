@@ -5,8 +5,8 @@
   <h3>🚀 Full Stack Engineer | JavaScript • TypeScript • Java • C# • Python</h3>
 
   <p>
-    Passionate about building scalable web applications with <strong>strong focus on polished UX</strong> and modern user experiences.<br>
-    11+ years turning complex challenges into intuitive, high-performance digital solutions.
+    Curious by nature, <strong>precise by choice</strong>.<br>
+    11+ years building systems that think clearly and interfaces that get out of the way.
   </p>
 
   <!-- Highlights -->
