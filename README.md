@@ -48,13 +48,6 @@
 
 ---
 
-### 💡 Currently Focused On
-- Building AI-powered features with RAG and LLMs  
-- Creating responsive, user-centered interfaces with excellent UX  
-- Scalable microservices and modern DevOps practices
-
----
-
 <div align="center">
   <i>“The beautiful thing about learning is that nobody can take it away from you.”</i>
 </div>
